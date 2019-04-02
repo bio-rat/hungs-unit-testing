@@ -1,0 +1,10 @@
+.product-item {
+  background-color: black;
+  color: white;
+  /* width: 200px; */
+  margin-top: 10px;
+}
+
+body {
+  margin: 0 auto;
+}
